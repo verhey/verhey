@@ -1,6 +1,6 @@
 👋
 
-I'm Dean Verhey - currently living in Seattle, WA and working as a Data Engineer at [LaunchDarkly](https://launchdarkly.com/)
+I'm Dean Verhey - currently living in Seattle, WA and working on data engineering at [LaunchDarkly](https://launchdarkly.com/)
 
 Here's a picture of my cat (refresh the page after a few minutes for a different one)
 
